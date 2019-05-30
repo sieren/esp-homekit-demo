@@ -1,15 +1,15 @@
 [submodule "components/cJSON"]
 	path = components/common/cJSON
-	url = https://github.com/maximkulkin/esp-cjson
+	url = https://github.com/sieren/esp-cjson
 [submodule "components/wolfssl"]
 	path = components/common/wolfssl
-	url = https://github.com/maximkulkin/esp-wolfssl
+	url = https://github.com/sieren/esp-wolfssl
 [submodule "components/homekit"]
 	path = components/common/homekit
-	url = https://github.com/maximkulkin/esp-homekit
+	url = https://github.com/sieren/esp-homekit
 [submodule "components/http-parser"]
 	path = components/esp-32/http-parser
-	url = https://github.com/maximkulkin/esp-http-parser.git
+	url = https://github.com/sieren/esp-http-parser.git
 [submodule "components/wifi_config"]
 	path = components/esp-8266/wifi_config
 	url = https://github.com/maximkulkin/esp-wifi-config

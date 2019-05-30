@@ -56,6 +56,10 @@ void button_callback(uint8_t gpio, button_event_t event) {
     }
 }
 
+void app_main()
+{
+  
+}
 
 homekit_accessory_t *accessories[] = {
     HOMEKIT_ACCESSORY(
